@@ -1,0 +1,24 @@
+{
+  "name": "joymote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walaura/joymote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walaura/joymote/issues"
+  },
+  "homepage": "https://github.com/walaura/joymote#readme",
+  "dependencies": {
+    "node-key-sender": "^1.0.11",
+    "sendkeys-js": "0.0.4",
+    "switch-joy-con": "^1.1.2"
+  }
+}
